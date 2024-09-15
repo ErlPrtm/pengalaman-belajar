@@ -19,4 +19,4 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 * Mengerjakan ujian akhir untuk menilai kemahiran diri.
 
 **15 September 2024**<br>
-Repository untuk latihan branch di Github
+Belajar Javascript lanjutan
